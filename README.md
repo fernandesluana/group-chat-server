@@ -1,8 +1,6 @@
-# group-chat-server
+<h1>Group Chat Server</h1>
 
-MultiChatServer
-
-Small server that accept Multi Clients
+Small server that accepts Multi Clients.
 
 It is necessary to run the server first and then the client separately.
 
